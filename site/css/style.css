@@ -8,3 +8,4 @@ nav {
   font-weight: 500;
 .logo {
   letter-spacing: 5px;
+  text-transform: capitalize;
