@@ -10,5 +10,7 @@ nav {
   letter-spacing: 5px;
   text-transform: capitalize;
   color: #fffcf4;
+  text-decoration: none;
 nav ol li a:hover {
   color: #cbffa1;
+nav ol li a::before {
