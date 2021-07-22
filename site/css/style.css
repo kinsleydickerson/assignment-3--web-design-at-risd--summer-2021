@@ -11,6 +11,7 @@ nav {
   text-transform: capitalize;
   color: #fffcf4;
   text-decoration: none;
+  color: #fffcf4;
 nav ol li a:hover {
   color: #cbffa1;
 nav ol li a::before {
