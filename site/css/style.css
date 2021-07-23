@@ -40,6 +40,8 @@ nav {
   text-align: center;
 }
 
+.nav ol li {
+  display: inline-block;
 }
 
 nav ol li a:hover {
