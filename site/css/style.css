@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+main {
+  background-color: #eaffff;
 }
 
 nav {
