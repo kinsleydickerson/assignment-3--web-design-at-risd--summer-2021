@@ -57,3 +57,7 @@ h4 {
 h4 p {
   font-family: 'Oxygen', sans-serif;
   font-size: 15px;
+.paragraph {
+  margin-left: 2em;
+  margin-right: 4em;
+  margin-bottom: 2em;
