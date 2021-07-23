@@ -7,6 +7,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  text-align: center;
   min-height: 8vh;
   background-color: #64a340;
   background-color: #509884;
