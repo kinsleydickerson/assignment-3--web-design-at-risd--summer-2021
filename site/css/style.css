@@ -47,6 +47,7 @@ nav {
 
 .nav ol li {
   display: inline-block;
+  float: right;
 }
 
 nav ol li a:hover {
