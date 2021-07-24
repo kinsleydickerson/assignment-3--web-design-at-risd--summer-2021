@@ -87,6 +87,8 @@ h3 {
 .box1 {
   border-style: solid;
   background-color: #680000;
+  width: 300px;
+  height: 100px;
   text-align: center;
   font-family: 'Barlow', sans-serif;
   font-size: 25px;
