@@ -50,9 +50,6 @@ nav {
 }
 
 nav ol li a:hover {
-  color: #cbffa1;
-nav ol li a::before {
-  color: #004837;
   color: #e87964;
 }
 
