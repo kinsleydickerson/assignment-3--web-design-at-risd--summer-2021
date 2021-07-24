@@ -11,9 +11,7 @@ main {
 
 nav {
   display: flex;
-  justify-content: space-around;
   align-items: center;
-  text-align: center;
   min-height: 8vh;
   background-color: #89292b;
   font-family: 'Maven Pro', sans-serif;
